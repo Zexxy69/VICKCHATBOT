@@ -49,7 +49,7 @@ async def start(client, message):
         
     else:
         buttons = [[
-            InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/VickMachine82_Bot?startgroup=true")
+            InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/Zexxprsnl_Bot?startgroup=true")
         ]
         ]
         video = "https://graph.org/file/e999c40cb700e7c684b75.mp4"
@@ -57,9 +57,9 @@ async def start(client, message):
 ɪ ᴀᴍ ᴄʜᴀᴛʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐖𝐍𝐄𝐑   [𝐀𝐃𝐈𝐓𝐘𝐀](https://t.me/BRANDEDADITY82)
-┣★ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 [𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://t.me/BRANDRD_BOT)
-┣★ 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 [𝐆𝐑𝐎𝐔𝐏](https://t.me/BRANDED_WORLD)
+┣★ 𝐎𝐖𝐍𝐄𝐑   [OWNER](https://t.me/zexxx_owner)
+┣★ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 [𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://t.me/+zkL3Y99t3go5MGI1)
+┣★ 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 [𝐆𝐑𝐎𝐔𝐏](https://t.me/ZEXXY_NXY)
 ┣★ 𝐒𝐎𝐔𝐑𝐂𝐄  [ 𝐑𝐄𝐏𝐎](https://github.com/ADITYAXANLO/VICKCHATBOT)
 ┗━━━━━━━━━━━━━━━━━┛
 """, reply_markup=InlineKeyboardMarkup(buttons))
